@@ -1,2 +1,2 @@
 # CS_3330
-UIowa CS3330 Algorithsm
+UIowa CS3330 Algoriths
